@@ -10,6 +10,9 @@ contributor:
     gutenberg_agent_id: '57275'
     url: http://www.gutenberg.org/2009/agents/57275
     wikipedia: https://en.wikipedia.org/wiki/Thomas_M%27Crie_the_Younger
+covers:
+- cover_type: archival
+  image_path: 73959-h/images/cover.jpg
 creator:
   author:
     agent_name: Pascal, Blaise
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/Blaise_Pascal
     - https://fr.wikipedia.org/wiki/Blaise_Pascal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73959#The-provincial-letters-of-Blaise-Pascal-b-A-new-translation-with-historical-introduction-and-_
 gutenberg_issued: '2024-07-01'
 gutenberg_type: Text
 identifiers:
